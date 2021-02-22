@@ -32,13 +32,13 @@ print("Reszta z dzielenia a%%b = %d" %(a%b))
 print("Potęgowanie pow(b,a) = %d" %(pow(b,a)))
 print("a++ = %d" %(a+1))
 print("b++ = %d" %(b+1))
-print("Zaokrąglenie do całości w gół = %d" %())
-print("Zaokrąglenie do całości w górę = %d" %())
+#print("Zaokrąglenie do całości w gół = %d" %())
+#print("Zaokrąglenie do całości w górę = %d" %())
 print("sin(a) = %d" %(sin(a)))
 print("sin(b) = %d" %(sin(b)))
 print("cos(a) = %d" %(cos(a)))
 print("cos(b) = %d" %(cos(b)))
-"""
+
 
 
 
