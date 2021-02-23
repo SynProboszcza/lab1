@@ -1,6 +1,5 @@
-"""
 #Zad1. Napisz pierwszy skrypt, w którym zadeklarujesz po dwie zmienne każdego typu a następnie wyświetl te zmienne
-
+"""
 int1 = 1
 int2 = 2
 string1 = "Candy"
@@ -14,6 +13,7 @@ print(int1, int2, string1, string2, float1, float2, complex1, complex2)
 """
 
 #Zad2. Stwórz skrypt kalkulator, w którym wykorzystać wszystkie podstawowe działania arytmetyczne
+"""
 from math import *
 
 a = int(input("Podaj a: "))
@@ -38,10 +38,38 @@ print("sin(a) = %d" %(sin(a)))
 print("sin(b) = %d" %(sin(b)))
 print("cos(a) = %d" %(cos(a)))
 print("cos(b) = %d" %(cos(b)))
+"""
+#Zad3. Napisz skrypt, w którym stworzysz operatory przyrostkowe dla operacji: +, -, *, /, **, %
+"""
+a = 6
+b = 12
+a+=b
+print(a)
 
+a = 6
+b = 12
+a-=b
+print(a)
 
+a = 6
+b = 12
+a*=b
+print(a)
 
+a = 6
+b = 12
+a/=b
+print(a)
 
+a = 6
+b = 12
+a**=b
+print(a)
 
+a = 6
+b = 12
+a%=b
+print(a)
+"""
 
 
