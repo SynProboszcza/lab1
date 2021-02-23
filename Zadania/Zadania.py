@@ -11,7 +11,6 @@ complex2 = 12+12j
 
 print(int1, int2, string1, string2, float1, float2, complex1, complex2)
 """
-
 #Zad2. Stwórz skrypt kalkulator, w którym wykorzystać wszystkie podstawowe działania arytmetyczne
 """
 from math import *
@@ -71,5 +70,10 @@ b = 12
 a%=b
 print(a)
 """
+#Zad4. Napisz skrypt, który policzy i wyświetli następujące wyrażenia:
+from math import *
+print(e**10)
+print(log(5+sin(radians(8)**2)**(1/6)))
+#print(sin(radians(30)))
 
 
