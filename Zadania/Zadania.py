@@ -16,8 +16,8 @@ print(int1, int2, string1, string2, float1, float2, complex1, complex2)
 #Zad2. Stwórz skrypt kalkulator, w którym wykorzystać wszystkie podstawowe działania arytmetyczne
 from math import *
 
-a = 5
-b = 9
+a = int(input("Podaj a: "))
+b = int(input("Podaj b: "))
 Pa = sqrt(a)
 Pb = sqrt(b)
 print("Dla zmiennych %d i %d wyniki są następujące: "%(a, b))
