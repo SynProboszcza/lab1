@@ -71,9 +71,10 @@ a%=b
 print(a)
 """
 #Zad4. Napisz skrypt, który policzy i wyświetli następujące wyrażenia:
+"""
 from math import *
 print(e**10)
 print(log(5+sin(radians(8)**2)**(1/6)))
-#print(sin(radians(30)))
-
-
+print(floor(3.55))
+print(floor(4.80))
+"""
