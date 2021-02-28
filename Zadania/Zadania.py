@@ -119,6 +119,19 @@ print("Ostatnia literka w Terraria to " + dowolna_zmienna_lancuchowa[len(dowolna
 Rihanna_Work = "Work, work, work, work, work, work He said me haffi work, work, work, work, work, work He see me do mi dirt, dirt, dirt, dirt, dirt, dirt So me put in work, work, work, work, work, work When you ah gon' learn, learn, learn, learn, learn? Me nuh care if him hurt, hurt, hurt, hurt, hurting"
 print(Rihanna_Work.split(" "))
 """
+#Zad.9 Napisz skrypt, w którym zadeklarujesz zmienne typu: string, float i szestnastkowe. Następnie wyświetl je wykorzystując odpowiednie formatowanie.
+"""
+s = "Hakuna matata"
+f = "2.12"
+h = hex(0xF)
+
+print(s)
+print(f)
+print(h)
+"""
+
+
+
 
 
 
