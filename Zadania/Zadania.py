@@ -108,6 +108,14 @@ print("work występiło " + str(ilosc_work) + " razy.")
 print("dirt występiło " + str(ilosc_dirt) + " razy.")
 print("learn występiło " + str(ilosc_learn) + " razy.")
 """
+#Zad.7 Do poszczególnych elementów łańcucha możemy się odwoływać przez podanie indeksu. Np. pierwszy znak zapisany w zmiennej imie uzyskamy przez imie[0]. Zapisz dowolną zmienną łańcuchową i wyświetl jej drugą i ostatnią literę, wykorzystując indeksy.
+"""
+dowolna_zmienna_lancuchowa = "Terraria"
+print("Druga literka w Terraria to " + dowolna_zmienna_lancuchowa[1])
+print("Ostatnia literka w Terraria to " + dowolna_zmienna_lancuchowa[len(dowolna_zmienna_lancuchowa)-1])
+"""
+
+
 
 
 
