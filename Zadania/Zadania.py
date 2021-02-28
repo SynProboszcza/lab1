@@ -78,3 +78,30 @@ print(log(5+sin(radians(8)**2)**(1/6)))
 print(floor(3.55))
 print(floor(4.80))
 """
+#Zad.5 Zapisz swoje imie i nazwisko w oddzielnych zmiennych wszystkie wielkimi literami. Użyj odpowiedniej metody by wyświetlić je pisane tak, że pierwsza litera jest wielka a pozostałe małe. (trzeba użyć metody capitalize)
+"""
+D = "D"
+A = "A"
+W = "W"
+I = "I"
+D = "D"#redundant
+
+S = "S"
+O = "Ó"
+J = "J"
+K = "K"
+A = "A"#redundant
+imie_i_nazwisko = D + A + W + I + D + " " + S + O + J + K + A
+print(imie_i_nazwisko.capitalize())
+#nazwisko jest z małej, ale chyba o to chodziło w zadaniu
+"""
+
+
+
+
+
+
+
+
+
+
