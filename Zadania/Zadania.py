@@ -114,9 +114,11 @@ dowolna_zmienna_lancuchowa = "Terraria"
 print("Druga literka w Terraria to " + dowolna_zmienna_lancuchowa[1])
 print("Ostatnia literka w Terraria to " + dowolna_zmienna_lancuchowa[len(dowolna_zmienna_lancuchowa)-1])
 """
-
-
-
+#Zad.8 Zmienne łańcuchowe możemy dzielić wykorzystaj zmienną z Zad. 6 i spróbuj ją podzielić na poszczególne wyrazy. (trzeba użyć metody split)
+"""
+Rihanna_Work = "Work, work, work, work, work, work He said me haffi work, work, work, work, work, work He see me do mi dirt, dirt, dirt, dirt, dirt, dirt So me put in work, work, work, work, work, work When you ah gon' learn, learn, learn, learn, learn? Me nuh care if him hurt, hurt, hurt, hurt, hurting"
+print(Rihanna_Work.split(" "))
+"""
 
 
 
