@@ -96,7 +96,7 @@ print(imie_i_nazwisko.capitalize())
 #nazwisko jest z małej, ale chyba o to chodziło w zadaniu
 """
 #Zad.6 Napisz skrypt, gdzie w zmiennej string zapiszesz fragment tekstu piosenki z powtarzającymi się słowami np. „la la la”. Następnie użyj odpowiedniej funkcji, która zliczy występowanie słowa „la”. (trzeba użyć metody count)
-
+"""
 Rihanna_Work = "Work, work, work, work, work, work He said me haffi work, work, work, work, work, work He see me do mi dirt, dirt, dirt, dirt, dirt, dirt So me put in work, work, work, work, work, work When you ah gon' learn, learn, learn, learn, learn? Me nuh care if him hurt, hurt, hurt, hurt, hurting"
 print(Rihanna_Work)
 
@@ -107,7 +107,7 @@ ilosc_learn = Rihanna_Work.count("learn")
 print("work występiło " + str(ilosc_work) + " razy.")
 print("dirt występiło " + str(ilosc_dirt) + " razy.")
 print("learn występiło " + str(ilosc_learn) + " razy.")
-
+"""
 
 
 
